@@ -1,0 +1,11 @@
+{
+  "name": "med-skelton",
+  "version": "0.0.1",
+  "description": "a package for baidu-med-fe screen skeleton",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shizhongwei",
+  "license": "ISC"
+}
